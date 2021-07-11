@@ -1,0 +1,33 @@
+.nava {
+    color:black;
+    margin:2em;
+}
+
+  div h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+    text-align: center;
+    color:darkslategray;
+}
+div h2 {
+    color:darkslategray;
+}
+
+div h3 {
+    color:burlywood;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+div p {
+    font-family:'Courier New', Courier, monospace ;
+    color:black;
+}
+div ul,ol {
+    font-family:'Courier New', Courier, monospace ;
+    color:black;
+    text-align:center;
+}
+body {
+    background-color:#E9ECEF;
+}
